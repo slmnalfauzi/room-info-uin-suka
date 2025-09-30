@@ -1,7 +1,3 @@
-<p align="center">
-	<img src="public/placeholder-logo.png" alt="Room Management System" width="120" />
-</p>
-
 # Room Management System UIN Suka
 
 Sistem Manajemen Ruangan berbasis web untuk Universitas Islam Negeri Sunan Kalijaga (UIN Suka). Aplikasi ini memudahkan proses reservasi, monitoring, dan pengelolaan ruangan bagi admin, dosen, dan mahasiswa melalui antarmuka modern dan responsif.
@@ -40,4 +36,3 @@ nextjs, typescript, react, room-management, university, reservation-system, web-
 
 ## 📄 Lisensi
 MIT
-# room-info-uin-suka
